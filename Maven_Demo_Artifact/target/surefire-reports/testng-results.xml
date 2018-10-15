@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenDemo_Group.Maven_Demo_Artifact.AppTest" duration-ms="0" started-at="2018-09-24T12:23:02Z" finished-at="2018-09-24T12:23:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="0" started-at="2018-09-24T12:23:02Z" finished-at="2018-09-24T12:23:02Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- MavenDemo_Group.Maven_Demo_Artifact.AppTest -->
+</testng-results>
